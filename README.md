@@ -16,5 +16,5 @@
 Welcome to the Weather App repository! This project is a web application that provides real-time weather updates for any location. It utilizes HTML, CSS, and JavaScript to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
 # OUTPUT
 
-https://github.com/user-attachments/assets/ad83f67c-ac33-4c0b-8c15-836b11f8a62b
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3052f244-e46a-4dbd-8ba7-877381a69457" />
 
